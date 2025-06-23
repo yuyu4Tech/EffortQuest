@@ -61,4 +61,4 @@ effort-quest/
 
 ## ライセンス
 
-MIT
+None
